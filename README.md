@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Urielaiello
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Urielaiello/Urielaiello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->) Realizar un programa que permita definir y cargar por teclado un arreglo de 10
+elementos, del tipo numérico real, e informar si el promedio de la primera mitad del
+arreglo es mayor al valor promedio del arreglo completo.
+
